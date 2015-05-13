@@ -17,15 +17,7 @@
 <link rel="stylesheet" href="<?php echo $CSS; ?>reg.css"> 
 <link rel="shortcut icon" href="<?php if ($_SERVER['IS_OEM']){ ?>/favicon.ico<?php }else{ ?>/faviconmy.ico<?php } ?>" />
 <title>登录-<?php echo $_SERVER['WEB_NAME']; ?>中心</title><script type="text/javascript">var yyuc_jspath = "/@system/";</script><script type="text/javascript" src="/@system/js/jquery.js"></script><script type="text/javascript" src="/@system/js/yyucadapter.js"></script>
-        <!--[if IE 7]>
-<!--            <link href="http://stc.weimob.com/css/font_awesome_ie7.css" rel="stylesheet" /> -->
-        <![endif]-->
-        <!--[if lte IE 8]>
-<!--            <script src="http://stc.weimob.com/js/excanvas_min.js"></script>    -->
-        <![endif]-->
-        <!--[if lte IE 9]>
-<!--            <script src="http://stc.weimob.com/js/watermark.js"></script>   -->
-        <![endif]-->
+
     </head>
  <body> 
 	<div class="header">
