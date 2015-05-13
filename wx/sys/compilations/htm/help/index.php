@@ -122,7 +122,9 @@ $(function(){
 <div class="m-three"><span class="sp1">服务热线：18621784057 QQ：86671718    招商加盟：18621784057  QQ：86671718 叶经理</span> 
 <span class="sp2">Copyright 2005-2013 聚微客&nbsp;版权所有</span></div>
 </div>
+<!--
 <div style="width: 0px;height: 0px;overflow: hidden;">
 <script src="http://s22.cnzz.com/z_stat.php?id=1000151448&web_id=1000151448" language="JavaScript"></script>
 </div>
+-->
 </body></html>

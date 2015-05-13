@@ -7,14 +7,15 @@ function yyuc_start(){
 	$_SERVER['WEI_URL'] = 'wx.zongyangtech.cn/weiweb/17/';
 	//$_SERVER['CHAT_JS'] = '<script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODA0ODQ2NV84MTExNV80MDA2MjMyMDAzXw"></script>';
 	$_SERVER['CHAT_JS'] = '86671718';
-	$_SERVER['QQ_QUN'] = '203108662';
-	$_SERVER['DEMO_ADDR'] = '青岛市五四广场万科广场';
-	$_SERVER['DEMO_TEL'] = '0532-81234567';
+        $_SERVER['QQ_QUN'] = '86671718';
+        $_SERVER['DEMO_ADDR'] = '无锡市滨湖区黄金湾工业园';
+        $_SERVER['DEMO_TEL'] = '18621784057';
 	$_SERVER['LOGO_PIC'] = '/media/images/reg/logo_big.png';
 	$_SERVER['LOGO_PIC2'] = '/media/images/reg/logo2.png';
 	$_SERVER['IS_OEM'] = false;
 	$_SERVER['OEM_ID'] = '0';
-	if($_SERVER ['HTTP_HOST'] =='121.199.59.187'|| $_SERVER ['HTTP_HOST'] == '223.6.250.136'|| $_SERVER ['HTTP_HOST'] == 'wangmob.com'|| $_SERVER ['HTTP_HOST'] == 'wx.dxcx.com'){
+        if($_SERVER ['HTTP_HOST'] =='121.199.59.187'|| $_SERVER ['HTTP_HOST'] == '223.6.250.136'|| $_SERVER ['HTTP_HOST'] == 'wangmob.com'|| $_SERVER ['HTTP_HOST'] == 'wx.dxcx.com'
+        || $_SERVER ['HTTP_HOST'] == 'weimob.com' || $_SERVER ['HTTP_HOST'] == '115.28.231.188' || $_SERVER ['HTTP_HOST'] == 's22.cnzz.com'){
 		die();
 	}
 	if(strpos($_SERVER ['HTTP_HOST'], 'wx.zongyangtech.cn')==false){

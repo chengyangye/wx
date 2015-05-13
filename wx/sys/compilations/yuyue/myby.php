@@ -153,9 +153,11 @@ text-align: center;
 <div class="mfooter" id="wxgjfooter" style="text-align: center;width: 100%;height: 20px;line-height: 20px;margin-top:10px;">
 <span class="sp2"><a href="http://wx.zongyangtech.cn/weiweb/3702/" style="color: #5e5e5e;font-size: 12px;">技术支持：<?php echo $_SERVER['WEB_NAME']; ?></a></span>
 </div>
+<!--
 <div style="width: 0px;height: 0px;overflow: hidden;">
 <script src="http://s22.cnzz.com/z_stat.php?id=1000151448&web_id=1000151448" language="JavaScript"></script>
 </div>
+ -->
 <script>
 /**
 $(function(){

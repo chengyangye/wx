@@ -16,15 +16,7 @@
 <link rel="stylesheet" href="<?php echo $CSS; ?>reg_2.css">
 <link rel="stylesheet" href="<?php echo $CSS; ?>reg.css"> 
 <title>登录-<?php echo $_SERVER['WEB_NAME']; ?>中心</title><script type="text/javascript">var yyuc_jspath = "/@system/";</script><script type="text/javascript" src="/@system/js/jquery.js"></script><script type="text/javascript" src="/@system/js/yyucadapter.js"></script>
-        <!--[if IE 7]>
-            <link href="http://stc.dxcx.com/css/font_awesome_ie7.css" rel="stylesheet" />
-        <![endif]-->
-        <!--[if lte IE 8]>
-            <script src="http://stc.dxcx.com/js/excanvas_min.js"></script>
-        <![endif]-->
-        <!--[if lte IE 9]>
-            <script src="http://stc.dxcx.com/js/watermark.js"></script>
-        <![endif]-->
+
         <script type="text/javascript">
         $(function(){
         	$('body').height($(window).height());
@@ -96,7 +88,7 @@
         </div>
     </div>
     </form>
-    <div id="ft">Copyright©2012-2013 dxcx.com All Rights Reserved <?php echo $_SERVER['WEB_NAME']; ?></div>
+    <div id="ft">Copyright©2012-2013 wx.zongyangtech.cn All Rights Reserved <?php echo $_SERVER['WEB_NAME']; ?></div>
 </div>
 <script type="text/javascript">
 function tofindpwd(){

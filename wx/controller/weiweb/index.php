@@ -69,6 +69,7 @@ if(Request::get('state')=='qqreg'){
 	}
 }
 
+/*
 if(strpos(strtolower($_SERVER ['HTTP_HOST']),'houtai.wx.zongyangtech.cn') !== false || strpos(strtolower($_SERVER ['HTTP_HOST']), 'wx.dxcx.com') !== false){
 	Redirect::to('/agencyAdmin/login.html');
 }
@@ -81,6 +82,10 @@ if(strpos(strtolower($_SERVER ['HTTP_HOST']),'weixin.dxcx.com') !== false){
 	$gde = "聚微客,国内领先的微信公众智能服务平台,管家十大微体系:微菜单、微官网、微会员、微活动、微商城、微推送、微服务、微统计、微支付、微客服,企业微营销必备。";
 	$gti = "聚微客--—国内领先的微信公众服务平台！";
 }
+*/
+$gkw = "微管家、微信营销、微信代运营、微信托管、微网站、微商城、微营销、微信定制开发";
+$gde = "聚微客,国内领先的微信公众智能服务平台,管家十大微体系:微菜单、微官网、微会员、微活动、微商城、微推送、微服务、微统计、微支付、微客服,企业微营销必备。";
+$gti = "聚微客--—国内领先的微信公众服务平台！";
 
 $u = new SampleModel();
 function set_user_login($mu){

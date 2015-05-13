@@ -330,7 +330,7 @@
                     <div class="box">
                     	<div class="box-title"><h4><a id="pt">2.2 如何注册<?php echo $_SERVER['WEB_NAME']; ?>平台？</a></h4></div>
                         <div class="box-content">
-                            <p>直接网址输入weixin.dxcx.com或者百度输入<?php echo $_SERVER['WEB_NAME']; ?>，点击进入<?php echo $_SERVER['WEB_NAME']; ?>官方网站，点击免费试用填写用户名、密码、手机、邮箱、QQ即可进行在线注册，新用户有一个月的钻石会员权限，请大家珍惜机会，抓紧注册。</p>
+                            <p>直接网址输入wx.zongyangtech.cn或者百度输入<?php echo $_SERVER['WEB_NAME']; ?>，点击进入<?php echo $_SERVER['WEB_NAME']; ?>官方网站，点击免费试用填写用户名、密码、手机、邮箱、QQ即可进行在线注册，新用户有一个月的钻石会员权限，请大家珍惜机会，抓紧注册。</p>
                             <p><img src="wmzhuce.png"></p> 
                            
                         </div>
