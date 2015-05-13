@@ -1,2 +1,3 @@
-./wx/sys/cache
-./wx/public_html/ups
+./wx/sys/cache/*
+./wx/public_html/ups/*
+Thumbs.db
