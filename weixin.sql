@@ -20511,7 +20511,7 @@ CREATE TABLE IF NOT EXISTS `user_agency` (
 --
 
 INSERT INTO `user_agency` (`id`, `un`, `pwd`, `email`, `telephone`, `qq`, `logtimes`, `isadmin`, `yue`, `logo`, `domain`, `webname`, `kfcode`, `pid`, `rtime`, `isyg`, `dljb`, `l_sheng`, `l_shi`, `name`, `isstop`, `level`, `cwid`, `kfid`, `addr`, `jingli`, `lxr`, `tel`, `isdirect`, `weiurl`, `ispwdcg`) VALUES
-(1, 'admin', '870330ycy', NULL, NULL, NULL, 0, 1, 99806243.00, NULL, 'wx.zongyangtech.cn', '微信营销系统', '86671718348', 1, NULL, 1, 0, 1502, 1620, '系统管理员', 0, NULL, 0, 0, NULL, NULL, NULL, NULL, 1, 'wx.zongyangtech.cn', 1);
+(1, 'admin', '870330ycy', NULL, NULL, NULL, 0, 1, 99806243.00, NULL, 'wx.zongyangtech.cn', '聚微客', '86671718', 1, NULL, 1, 0, 1502, 1620, '系统管理员', 0, NULL, 0, 0, NULL, NULL, NULL, NULL, 1, 'wx.zongyangtech.cn', 1);
 
 -- --------------------------------------------------------
 

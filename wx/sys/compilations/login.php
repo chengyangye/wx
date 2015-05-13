@@ -68,14 +68,15 @@
 		
 			
 			  <?php echo $u->password('pwd','tabindex="2" type="password" placeholder="请输入您的密码" autocomplete="off"'); ?>
+<!--
 			<div class="link-1">
-			
-				
 				<input id="hold" type="checkbox" checked  value="1" name="remme"/>
 				<label for="c2"><span></span> 记住我</label>
 			</div>
+                        -->
 			<div class="link-2">
-				<a href="forgot-password.html">忘记密码</a>
+<!--				<a href="forgot-password.html">忘记密码</a> -->
+                                <a href="findpwd.html">忘记密码</a>
 			</div>
 			<div class="clear">
 			</div>
