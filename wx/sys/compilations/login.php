@@ -73,11 +73,11 @@
 				<input id="hold" type="checkbox" checked  value="1" name="remme"/>
 				<label for="c2"><span></span> 记住我</label>
 			</div>
-                        -->
 			<div class="link-2">
-<!--				<a href="forgot-password.html">忘记密码</a> -->
+                                <a href="forgot-password.html">忘记密码</a>
                                 <a href="findpwd.html">忘记密码</a>
 			</div>
+                        -->
 			<div class="clear">
 			</div>
 			<div class="button-login">
